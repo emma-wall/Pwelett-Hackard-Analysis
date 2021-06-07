@@ -26,6 +26,8 @@ ORDER BY e.emp_no;
 ```
 
 Pewlett Hackard should also look at the number of eligible retirees based on department, to see what departments are going to need to hire the most people. From the table below, we can see that the Production and Developement departments will need to fill the most spots
+
+
 ![Screen Shot 2021-06-07 at 12 22 56 AM](https://user-images.githubusercontent.com/80648379/120958948-bc7e2380-c726-11eb-9c64-a9e8ac173c84.png)
 
 
